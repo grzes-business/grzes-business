@@ -1,5 +1,7 @@
 ## Ayo 👋
 
+[My Portolfio Site](https://grzes-business.github.io/portfolio-site)
+
 <!--
 **grzes-business/grzes-business** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +24,5 @@ I'm pretty ambitious, typically learning something, trying it, failing with it, 
 I cannot say on what I'm working right now, because it is confidential (or really I want to make myself mysterious for some reason [making me even more mysterious buhahaha])
 
 What I can say is I'm a pretty okayish piano player. It's hard to say, because I do not want to do ego morphing or smth idunno.
+
+
